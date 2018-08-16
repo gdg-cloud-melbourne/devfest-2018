@@ -160,7 +160,7 @@ function deploy() {
   for (let file of config.templateData) {
     metadata = Object.assign({}, metadata, require(path.join(process.cwd(), file)));
   }
-  return run(`firebase use ${metadata.firebase.projectId} && firebase deploy`).exec();
+  return run(`firebase deploy --token 1/NMWmLBI0jtjs0hVFQnv3rlL0Sm_HpoN_fIaI7RqfrNw`).exec();
 }
 
 function waitFor(stream) {
