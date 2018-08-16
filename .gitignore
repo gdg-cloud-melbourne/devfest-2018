@@ -1,6 +1,6 @@
-dist/
 node_modules/
 build/
+functions/dist
 functions/lib/
 .idea/
 .temp/
