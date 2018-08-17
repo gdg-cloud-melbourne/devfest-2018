@@ -1,4 +1,11 @@
 steps:
+steps:
+- name: node:8.11.4
+  entrypoint: npm
+  args: ['install']
+- name: node:8.11.4
+  entrypoint: npm
+  args: ['install', '-g', 'firebase-tools']
 - name: node:8.11.4
   entrypoint: npm
   args: ['run', 'firestore:init']
