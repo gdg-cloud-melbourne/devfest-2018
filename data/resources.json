@@ -23,7 +23,7 @@
   "country": "Country",
   "time": "Time",
   "faq": "",
-  "cod": "",
+  "cod": "/data/cod.md",
   "footer": {
     "blog": ""
   },
@@ -37,7 +37,7 @@
       "links": [
         {
           "name": "GDG Cloud Melbourne",
-          "url": "",
+          "url": "https://www.meetup.com/GDG-Cloud-Melbourne/",
           "newTab": true
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "",
+          "url": "https://www.meetup.com/GDG-Cloud-Melbourne/members/?op=leaders",
           "newTab": true
         }
       ]
@@ -72,10 +72,10 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "We're passionate about cloud computing...",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG Cloud Melbourne DevFest is an event for the Google Cloud community.",
+        "description": "GDG Cloud Melbourne DevFest is an event for the Google Cloud community. We ",
         "label": "Explore featured session (TBA)",
         "link": ""
       }
@@ -137,7 +137,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "",
+        "description": "GDG Cloud Melbourne",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"

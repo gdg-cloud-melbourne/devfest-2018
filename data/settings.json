@@ -2,7 +2,7 @@
   "organizer": {
     "name": "GDG Cloud Melbourne",
     "twitter": "GDGCloudMelb",
-    "url": "http://gdgcloud.melbourne"
+    "url": "https://www.meetup.com/GDG-Cloud-Melbourne/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -35,20 +35,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "TBA",
+    "name": "REA Group",
     "city": "Melbourne",
     "short": "Melbourne, Australia",
-    "address": "TBA",
+    "address": "511 Church St, Richmond VIC 3121",
     "pointer": {
-      "latitude": -37.971237,
-      "longitude": 144.4926947,
-      "zoom": 5
+      "latitude": -37.828915,
+      "longitude": 144.998002,
+      "zoom": 10
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -37.8509629,
+      "longitude": 144.998002
     },
-    "description": "watch this space"
+    "description": "REA Group"
   },
   "mediaQueries": {
     "xs": {
