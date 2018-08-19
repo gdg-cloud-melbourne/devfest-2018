@@ -201,15 +201,6 @@
         };
       }
 
-      _playVideo() {
-        uiActions.toggleVideoDialog({
-          title: '{$  aboutBlock.callToAction.howItWas.title $}',
-          youtubeId: '{$  aboutBlock.callToAction.howItWas.youtubeId $}',
-          disableControls: true,
-          opened: true,
-        });
-      }
-
       _scrollToTickets() {
         // eslint-disable-next-line no-undef
         const toolbarHeight = HOVERBOARD.Elements.HeaderToolbar.getBoundingClientRect().height - 1;

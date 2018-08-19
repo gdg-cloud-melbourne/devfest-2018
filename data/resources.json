@@ -58,7 +58,7 @@
 
         {
           "name": "Call for Papers",
-          "url": "",
+          "url": "https://goo.gl/forms/FrAiEShloml7tFXL2",
           "newTab": true
         },
         {
@@ -75,7 +75,7 @@
     "title": "We're passionate about cloud computing...",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG Cloud Melbourne DevFest is an event for the Google Cloud community. We ",
+        "description": "GDG Cloud Melbourne DevFest is an event for the Google Cloud community. It's a chance for Google Cloud enthusiasts to share, learn and generally geek out!",
         "label": "Explore featured session (TBA)",
         "link": ""
       }

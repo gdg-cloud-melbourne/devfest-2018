@@ -1,0 +1,111 @@
+{
+  "gallery" : [
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
+    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+  ],
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.au/intl/en/about/"
+    }],
+    "title" : "General Partner"
+  } ],
+  "schedule" : {
+    "2018-11-24" : {
+      "dateReadable" : "November 24",
+      "timeslots" : [ {
+        "endTime" : "9:30",
+        "sessions" : [ {
+          "items" : [ 101 ]
+        } ],
+        "startTime" : "09:00"
+      }],
+      "tracks" : [ {
+        "title" : "Speakers"
+      }, {
+        "title" : "Learning space"
+      }]
+    }
+  },
+  "sessions" : {
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "Scott Thomson will be kicking off our event with Google's latest and greatest it has to offer.",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "scott_thomson"],
+      "tags" : [ "Cloud" ],
+      "title" : "Keynote"
+    }
+  },
+  "speakers" : {
+    "scott_thomson" : {
+      "bio" : "",
+      "company" : "Google",
+      "companyLogo" : "../images/logos/google.svg",
+      "companyLogoUrl" : "",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Scott Thomson",
+      "photo" : "images/people/scott_thomson.jpg",
+      "photoUrl" : "https://www.adma.com.au/sites/default/files/instructor/scott-thomson-bw-600x600.jpg",
+      "shortBio" : "",
+      "socials" : [],
+      "title" : "Customer Solutions & Innovation APAC"
+    }
+  },
+  "team" : [ {
+    "members" : [ {
+      "name" : "Graham Polley",
+      "photo" : "/images/people/graham_polley.jpeg",
+      "photoUrl" : "https://secure.meetupstatic.com/photos/member/b/0/f/7/highres_270825303.jpeg",
+      "socials" : [],
+      "title" : "Meetup Organiser"
+    }, {
+      "name" : "James Percy",
+      "photo" : "/images/people/james_percy.jpg",
+      "photoUrl" : "https://secure.meetupstatic.com/photos/member/5/1/8/8/highres_133940872.jpeg",
+      "socials" : [],
+      "title" : "Meetup Co-Organiser"
+    }, {
+      "name" : "Davin Pidoto",
+      "photo" : "/images/people/davin_pidoto.jpeg",
+      "photoUrl" : "https://secure.meetupstatic.com/photos/member/3/6/a/8/highres_181093992.jpeg",
+      "socials" : [],
+      "title" : "Meetup Co-Organiser"
+    }, {
+      "name" : "Dylan Graham",
+      "photo" : "/images/people/dylan_graham.jpeg",
+      "photoUrl" : "https://secure.meetupstatic.com/photos/member/4/0/e/7/highres_268696615.jpeg",
+      "socials" : [],
+      "title" : "Meetup Co-Organiser"
+    }, {
+      "name" : "Darren Cibis",
+      "photo" : "/images/people/darren_cibis.jpeg",
+      "photoUrl" : "https://secure.meetupstatic.com/photos/member/6/b/1/4/highres_255207412.jpeg",
+      "socials" : [],
+      "title" : "Meetup Co-Organiser"
+    }, {
+      "name" : "Ran Niu",
+      "photo" : "/images/people/ran_niu.jpeg",
+      "photoUrl" : "https://secure.meetupstatic.com/photos/member/7/6/b/3/highres_248070387.jpeg",
+      "socials" : [ ],
+      "title" : "Meetup Co-Organiser"
+    }  ],
+    "title" : "Core Team"
+  } ],
+  "tickets" : [],
+  "triggers" : {
+    "images" : false
+  },
+  "videos" : [],
+  "previousSpeakers": {
+  }
+}
