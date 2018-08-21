@@ -14,7 +14,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest18",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -40,7 +40,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "GDG Cloud Melbourne!",
+      "description": "GDG Cloud Melbourne",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
