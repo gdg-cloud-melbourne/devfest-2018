@@ -60,6 +60,26 @@
       "shortBio" : "",
       "socials" : [],
       "title" : "Customer Solutions & Innovation APAC"
+    },
+    "graham_polley" : {
+      "bio" : "",
+      "company" : "Servian",
+      "companyLogo" : "../images/logos/servian-logo.png",
+      "companyLogoUrl" : "https://company-profile-images.s3.amazonaws.com/images/814520/1182509/logo/servian-logo.png",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Graham Polley",
+      "photo" : "/images/people/graham_polley.jpeg",
+      "photoUrl" : "https://secure.meetupstatic.com/photos/member/b/0/f/7/highres_270825303.jpeg",
+      "shortBio" : "",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/polleyg",
+          "name" : "Twitter"
+        }
+      ],
+      "title" : "Software Engineer"
     }
   },
   "team" : [ {

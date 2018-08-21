@@ -14,7 +14,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "GDGCloudDevFest18",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -95,22 +95,10 @@
       }
     ]
   },
-  "mailto": "",
+  "mailto": "james007percy@gmail.com",
   "mailchimp": {
     "url": "",
     "name": ""
-  },
-  "signInProviders": {
-    "providersData": [
-      {
-        "name": "google",
-        "label": "Sign in with Google",
-        "url": "https://accounts.google.com"
-      }
-    ],
-    "allowedProvidersUrl": [
-      "https://accounts.google.com"
-    ]
   },
   "contentLoaders": {
     "schedule": {
