@@ -11,8 +11,12 @@ steps:
   env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}']
 - name: node:8.11.4
   entrypoint: npm
-  args: ['run', 'deploy']
+  args: ['run', 'deploy:prod']
   env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}']
+- name: node:8.11.4
+  entrypoint: npm
+  args: ['run', 'firestore:update']
+  env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}', 'AUTH_KEY=${_KEY}']
 substitutions:
   _PROJECT_ID: 'gdgcloud-devfest'
   _TOKEN: ''
