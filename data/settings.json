@@ -4,8 +4,8 @@
     "twitter": "GDGCloudMelb",
     "url": "https://www.meetup.com/GDG-Cloud-Melbourne/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2018-11-24T09:00:00+10:00",
+  "endDate": "2017-11-24T17:00:00+10:00",
   "webapp": {
     "shortName": "DevFest18",
     "themeColor": "#673AB7",
@@ -14,7 +14,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "GDGCloudDevFest18",
+  "hashtag": "DevFest18",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -40,7 +40,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "GDG Cloud Melbourne!",
+      "description": "GDG Cloud Melbourne",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
