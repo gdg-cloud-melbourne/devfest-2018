@@ -1,19 +1,19 @@
 steps:
-- name: node:8.11.4
+- name: gcr.io/cloud-builders/npm
   entrypoint: npm
   args: ['install']
-- name: node:8.11.4
+- name: gcr.io/cloud-builders/npm
   entrypoint: npm
   args: ['install', '-g', 'firebase-tools']
-- name: node:8.11.4
+- name: gcr.io/cloud-builders/npm
   entrypoint: npm
   args: ['run', 'build']
   env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}']
-- name: node:8.11.4
+- name: gcr.io/cloud-builders/npm
   entrypoint: npm
   args: ['run', 'deploy:prod']
   env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}']
-- name: node:8.11.4
+- name: gcr.io/cloud-builders/npm
   entrypoint: npm
   args: ['run', 'firestore:update']
   env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}', 'AUTH_KEY=${_KEY}']
