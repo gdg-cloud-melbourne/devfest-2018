@@ -1,4 +1,5 @@
 {
+  "blog" : {},
   "gallery" : [
     "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
     "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
@@ -36,7 +37,7 @@
   },
   "sessions" : {
     "101" : {
-      "complexity" : "Beginner",
+      "complexity" : "All",
       "description" : "Scott Thomson will be kicking off our event with Google's latest and greatest it has to offer.",
       "language" : "English",
       "presentation" : "",
@@ -101,7 +102,6 @@
     }  ],
     "title" : "Core Team"
   } ],
-  "tickets" : [],
   "triggers" : {
     "images" : false
   },

@@ -7,7 +7,7 @@ steps:
   args: ['install', '-g', 'firebase-tools']
 - name: node:8.11.4
   entrypoint: npm
-  args: ['run', 'firestore:init']
+  args: ['run', 'firestore:update']
   env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}', 'AUTH_KEY=${_KEY}']
 substitutions:
   _PROJECT_ID: 'gdgcloud-devfest'
