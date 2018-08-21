@@ -1,6 +1,6 @@
 {
   "basepath": "/",
-  "url": "https://devfest.gdgcloud.melbourne",
+  "url": "https://devfest.gdgcloud.melbourne/",
   "analytics": "UA-43643469-9",
   "prefix": "/",
   "firebase": {
