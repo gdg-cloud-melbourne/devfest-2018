@@ -8,6 +8,11 @@ steps:
 - name: node:8.11.4
   entrypoint: npm
   args: ['run', 'build']
+  env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}']
 - name: node:8.11.4
   entrypoint: npm
   args: ['run', 'deploy']
+  env: ['PROJECT_ID=${_PROJECT_ID}', 'TOKEN=${_TOKEN}', 'GOOGLE_CLOUD_PROJECT=${_PROJECT_ID}']
+substitutions:
+  _PROJECT_ID: 'gdgcloud-devfest'
+  _TOKEN: ''
