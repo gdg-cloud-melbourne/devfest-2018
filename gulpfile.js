@@ -160,7 +160,7 @@ function deploy() {
   for (let file of config.templateData) {
     metadata = Object.assign({}, metadata, require(path.join(process.cwd(), file)));
   }
-  return run(`firebase deploy --token 1/AuggBmmfMTc-QQSMX3WoG8ArpVg3k4Q9wT9AWjiog6AE5Bi_NSHfAVGX28ppaiwr --project gdgcloud-devfest`).exec();
+  return run(`firebase deploy --token $TOKEN --project $PROJECT_ID`).exec();
 }
 
 function waitFor(stream) {
