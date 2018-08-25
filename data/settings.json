@@ -36,6 +36,11 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
+    },
+    {
+      "route": "cod",
+      "permalink": "/cod/",
+      "label": "Code of Conduct"
     }
   ],
   "heroSettings": {
