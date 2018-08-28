@@ -22,20 +22,126 @@
     "2018-11-24" : {
       "dateReadable" : "November 24",
       "timeslots" : [ {
-        "endTime" : "9:30",
         "sessions" : [ {
-          "items" : [ 101 ]
+          "items" : [ 100 ]
         } ],
-        "startTime" : "09:00"
-      }],
+        "startTime" : "09:00",
+        "endTime" : "9:35"
+      },
+        {
+          "sessions" : [ {
+            "items" : [ 101 ]
+          } ],
+          "startTime" : "09:40",
+          "endTime" : "10:20"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 102 ]
+          } ],
+          "startTime" : "10:25",
+          "endTime" : "10:45"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 103 ]
+          } ],
+          "startTime" : "10:45",
+          "endTime" : "11:15"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 104 ]
+          } ],
+          "startTime" : "11:15",
+          "endTime" : "11:55"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 105 ]
+          } ],
+          "startTime" : "12:00",
+          "endTime" : "12:20"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 106 ]
+          } ],
+          "startTime" : "12:20",
+          "endTime" : "13:20"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 107 ]
+          } ],
+          "startTime" : "13:20",
+          "endTime" : "14:00"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 108 ]
+          } ],
+          "startTime" : "14:05",
+          "endTime" : "14:25"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 109 ]
+          } ],
+          "startTime" : "14:25",
+          "endTime" : "14:55"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 110 ]
+          } ],
+          "startTime" : "14:55",
+          "endTime" : "15:15"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 111 ]
+          } ],
+          "startTime" : "15:20",
+          "endTime" : "16:00"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 112 ]
+          } ],
+          "startTime" : "16:05",
+          "endTime" : "16:25"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 113 ]
+          } ],
+          "startTime" : "16:25",
+          "endTime" : "16:35"
+        },
+        {
+          "sessions" : [ {
+            "items" : [ 114 ]
+          } ],
+          "startTime" : "16:35",
+          "endTime" : "17:00"
+        }
+      ],
       "tracks" : [ {
-        "title" : "Speakers"
-      }, {
-        "title" : "Learning space"
+        "title" : "Main"
       }]
     }
   },
   "sessions" : {
+    "100" : {
+      "complexity" : "All",
+      "description" : "An introduction from the organisers",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Welcome"
+    },
     "101" : {
       "complexity" : "All",
       "description" : "Scott Thomson will be kicking off our event with Google's latest and greatest it has to offer.",
@@ -44,6 +150,123 @@
       "speakers" : [ "scott_thomson"],
       "tags" : [ "Cloud" ],
       "title" : "Keynote"
+    },
+    "102" : {
+      "complexity" : "All",
+      "description" : "Talk 1",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 1"
+    },
+    "103" : {
+      "complexity" : "All",
+      "description" : "Break for snacks and networking",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Break"
+    },
+    "104" : {
+      "complexity" : "All",
+      "description" : "Talk 2",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 2"
+    },
+    "105" : {
+      "complexity" : "All",
+      "description" : "Talk 3",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 3"
+    },
+    "106" : {
+      "complexity" : "All",
+      "description" : "Lunch",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Lunch"
+    },
+    "107" : {
+      "complexity" : "All",
+      "description" : "Talk 4",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 4"
+    },
+    "108" : {
+      "complexity" : "All",
+      "description" : "Talk 5",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 5"
+    },
+    "109" : {
+      "complexity" : "All",
+      "description" : "Break for snacks and networking",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Break"
+    },
+    "110" : {
+      "complexity" : "All",
+      "description" : "Talk 6",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 6"
+    },
+    "111" : {
+      "complexity" : "All",
+      "description" : "Talk 7",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 7"
+    },
+    "112" : {
+      "complexity" : "All",
+      "description" : "Talk 8",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Talk 8"
+    },
+    "113" : {
+      "complexity" : "All",
+      "description" : "Wrapping it up",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Closing"
+    },
+    "114" : {
+      "complexity" : "All",
+      "description" : "Networking",
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [],
+      "tags" : [],
+      "title" : "Networking"
     }
   },
   "speakers" : {
