@@ -12,7 +12,7 @@
   ],
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
+      "logoUrl" : "images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.au/intl/en/about/"
     }],
@@ -50,7 +50,7 @@
     "scott_thomson" : {
       "bio" : "",
       "company" : "Google",
-      "companyLogo" : "/images/logos/google.svg",
+      "companyLogo" : "images/logos/google.svg",
       "companyLogoUrl" : "",
       "country" : "Australia",
       "featured" : true,
@@ -82,7 +82,7 @@
     "jemma_stones" : {
       "bio" : "Jemma is a consultant specialising in data engineering and solution architecture, and works at Servian. She has a particular interest in Big Data applications on cloud technologies, and is also a certified GCP Professional Data Engineer & AWS Solutions Architect.",
       "company" : "Servian",
-      "companyLogo" : "/images/logos/servian-logo.png",
+      "companyLogo" : "images/logos/servian-logo.png",
       "companyLogoUrl" : "https://company-profile-images.s3.amazonaws.com/images/814520/1182509/logo/servian-logo.png",
       "country" : "Australia",
       "featured" : true,
@@ -114,12 +114,12 @@
     "graham_polley" : {
       "bio" : "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. \n \n Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
       "company" : "Servian",
-      "companyLogo" : "/images/logos/servian-logo.png",
+      "companyLogo" : "images/logos/servian-logo.png",
       "companyLogoUrl" : "https://company-profile-images.s3.amazonaws.com/images/814520/1182509/logo/servian-logo.png",
       "country" : "Australia",
       "featured" : true,
       "name" : "Graham Polley",
-      "photo" : "/images/people/graham_polley.jpeg",
+      "photo" : "images/people/graham_polley.jpeg",
       "photoUrl" : "https://secure.meetupstatic.com/photos/member/b/0/f/7/highres_270825303.jpeg",
       "shortBio" : "",
       "socials" : [
