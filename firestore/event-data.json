@@ -57,7 +57,7 @@
       "name" : "Scott Thomson",
       "photo" : "https://devfest.gdgcloud.melbourne/images/people/scott-thomson.jpg",
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/scott-thomson.jpg",
-      "shortBio" : "",
+      "shortBio" : "Customer Solutions & Innovation APAC",
       "socials" : [],
       "title" : "Customer Solutions & Innovation APAC"
     },
@@ -71,7 +71,7 @@
       "name" : "Ankur Kotwal",
       "photo" : "https://devfest.gdgcloud.melbourne/images/people/Ankur_Kotwal.jpg",
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/Ankur_Kotwal.jpg",
-      "shortBio" : "",
+      "shortBio" : "Developer Advocate",
       "socials" : [        {
         "icon" : "twitter",
         "link" : "https://twitter.com/ankurkotwal",
@@ -89,8 +89,14 @@
       "name" : "Jemma Stones",
       "photo" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpeg",
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpeg",
-      "shortBio" : "",
-      "socials" : [],
+      "shortBio" : "Managing Consultant",
+      "socials" : [
+        {
+        "icon": "twitter",
+        "link": "https://twitter.com/@jemstones",
+        "name": "Twitter"
+      }
+      ],
       "title" : "Managing Consultant"
     },
     "gareth_jones" : {
@@ -103,7 +109,7 @@
       "name": "Gareth Jones",
       "photo": "https://devfest.gdgcloud.melbourne/images/people/gareth_jones.jpg",
       "photoUrl": "https://devfest.gdgcloud.melbourne/images/people/gareth_jones.jpg",
-      "shortBio": "",
+      "shortBio": "Consultant",
       "socials": [
         {
           "icon": "twitter",
