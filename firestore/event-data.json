@@ -55,11 +55,61 @@
       "country" : "Australia",
       "featured" : true,
       "name" : "Scott Thomson",
-      "photo" : "images/people/scott_thomson.jpg",
+      "photo" : "images/people/scott-thomson.jpg",
       "photoUrl" : "https://www.adma.com.au/sites/default/files/instructor/scott-thomson-bw-600x600.jpg",
       "shortBio" : "",
       "socials" : [],
       "title" : "Customer Solutions & Innovation APAC"
+    },
+    "ankur_kotwal" : {
+      "bio" : "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he also helped launch the Google Maps APIs gaming offering. Ankur is also the product manager and a software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
+      "company" : "Google",
+      "companyLogo" : "../images/logos/google.svg",
+      "companyLogoUrl" : "",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Ankur Kotwal",
+      "photo" : "images/people/Ankur_Kotwal.jpg",
+      "photoUrl" : "https://ndcsydney.com/images/speaker/Ankur_Kotwal.jpg",
+      "shortBio" : "",
+      "socials" : [        {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ankurkotwal",
+        "name" : "Twitter"
+      }],
+      "title" : "Developer Advocate"
+    },
+    "jemma_stones" : {
+      "bio" : "Jemma is a consultant specialising in data engineering and solution architecture, and works at Servian. She has a particular interest in Big Data applications on cloud technologies, and is also a certified GCP Professional Data Engineer & AWS Solutions Architect.",
+      "company" : "Servian",
+      "companyLogo" : "../images/logos/servian-logo.png",
+      "companyLogoUrl" : "https://company-profile-images.s3.amazonaws.com/images/814520/1182509/logo/servian-logo.png",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Jemma Stones",
+      "photo" : "images/people/jemma_stones.jpg",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [],
+      "title" : "Managing Consultant"
+    },
+    "gareth_jones" : {
+      "bio" : "I'm a developer with 20 years experience. So, old. I live in Melbourne, working on Big Data, Machine Learning, and other buzzwords. I maintain the popular(ish) node.js logging package log4js-node.",
+      "company" : "Shine Solutions",
+      "companyLogo" : "../images/logos/shine_solutions.png",
+      "companyLogoUrl" : "",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Gareth Jones",
+      "photo" : "images/people/gareth_jones.jpg",
+      "photoUrl" : "https://lh5.googleusercontent.com/-Y3kdpmtJWCw/AAAAAAAAAAI/AAAAAAAAADI/_04htcMQ8uk/photo.jpg",
+      "shortBio" : "",
+      "socials" : [        {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/@nomiddlename",
+        "name" : "Twitter"
+      }],
+      "title" : "Consultant"
     },
     "graham_polley" : {
       "bio" : "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. \n \n Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
