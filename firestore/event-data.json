@@ -48,7 +48,7 @@
   },
   "speakers" : {
     "scott_thomson" : {
-      "bio" : "",
+      "bio" : "Scott has been working with enterprises across Asia Pacific and the US to help them liberate value from their data assets and drive innovation and business for more than a decade. He works for Google in customer solutions and innovation in the data platforms group across APAC. Prior to this, he worked with Adobe assisting C-level executives across APAC with digital strategy and digital transformation.\n\nScott also held the role of CTO for Qmecom, an Australian startup focused on personalised video advertising for mobiles, and has worked for major organisations, including Telstra and Sensis, delivering digital marketing and digital products.",
       "company" : "Google",
       "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
       "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
@@ -87,8 +87,8 @@
       "country" : "Australia",
       "featured" : true,
       "name" : "Jemma Stones",
-      "photo" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpeg",
-      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpeg",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpg",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpg",
       "shortBio" : "Managing Consultant",
       "socials" : [
         {
