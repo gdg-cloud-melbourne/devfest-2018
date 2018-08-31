@@ -144,10 +144,10 @@
     },
     "101" : {
       "complexity" : "All",
-      "description" : "Scott Thomson will be kicking off our event with Google's latest and greatest it has to offer.",
+      "description" : "Ankur Kotwal will be kicking off our event.",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "scott_thomson"],
+      "speakers" : [ "ankur_kotwal"],
       "tags" : [ "Cloud" ],
       "title" : "Keynote"
     },
