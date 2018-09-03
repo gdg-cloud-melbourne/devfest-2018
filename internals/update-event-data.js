@@ -51,6 +51,30 @@ const importTeam = () => {
     });
 };
 
+
+const importTickets = () => {
+  const docs = data.tickets;
+  console.log('\tImporting tickets...');
+
+  const batch = firestore.batch();
+
+  Object.keys(docs).forEach((docId) => {
+    batch.set(
+      firestore.collection('tickets').doc(`${docId}`.padStart(3, 0)),
+      {
+        ...docs[docId],
+        order: docId,
+      },
+    );
+  });
+
+  return batch.commit()
+    .then(results => {
+      console.log('\tImported data for', results.length, 'tickets');
+      return results;
+    });
+};
+
 const importPartners = () => {
   const partners = data.partners;
   console.log('\tImporting partners...');
@@ -127,6 +151,7 @@ initializeFirebase()
   .then(() => importSessions())
   .then(() => importSpeakers())
   .then(() => importTeam())
+  .then(() => importTickets())
 
   .then(() => {
     console.log('Finished');
