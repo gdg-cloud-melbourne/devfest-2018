@@ -77,6 +77,14 @@
     "link": "/cod",
     "linkLabel": "devfest.gdgcloud.melbourne/cod"
   },
+  "devFestBlock": {
+    "title": "What is DevFest?",
+    "description": "GDG DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. There are two events happening right here in Melbourne!",
+    "androidGDGText": "For the event run by our friends the Melbourne Android GDG group head",
+    "androidGDGLinkText": "over here",
+    "androidGDGLink": "https://www.gdgmelbourne.com/devfest-2018/"
+
+  },
   "aboutBlock": {
     "title": "We're passionate about cloud computing...",
     "callToAction": {
@@ -89,7 +97,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "To be made available soon",
+    "ticketsDetails": "Tickets grant access to the community event, snack breaks and lunch.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": ""
