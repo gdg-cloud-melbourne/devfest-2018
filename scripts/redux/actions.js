@@ -109,7 +109,6 @@ const ticketsActions = {
       .then((snaps) => {
         const list = snaps.docs
           .map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
-
         dispatch({
           type: FETCH_TICKETS_SUCCESS,
           payload: { list },

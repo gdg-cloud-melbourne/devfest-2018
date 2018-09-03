@@ -80,6 +80,8 @@ const ticketsReducer = (state = initialState.tickets, action) => {
       });
 
     case FETCH_TICKETS_SUCCESS:
+      // eslint-disable-next-line no-console
+      console.log(`Storing ticket state ${JSON.stringify(list)}`);
       return Object.assign({}, state, {
         fetching: false,
         list: action.payload.list,

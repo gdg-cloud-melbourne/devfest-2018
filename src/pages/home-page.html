@@ -55,6 +55,10 @@
         color: #fff;
       }
 
+      .gcp-logo {
+        max-height: 100px;
+      }
+
       .action-buttons iron-icon {
         --iron-icon-fill-color: currentColor;
         margin-right: 8px;
@@ -140,12 +144,14 @@
       hide-logo
     >
       <div class="home-content" layout vertical center>
+        <div>
+          <img class="gcp-logo" src="/images/logos/icon_cloud_192pt_clr.png">
+        </div>
         <plastic-image class="hero-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
         <div class="info-items highlight-font">
           <div class="info-item">{$ location.city $}. {$ dates $}</div>
           <div class="info-item">{$ heroSettings.home.description $}</div>
         </div>
-
 
         <div class="action-buttons" layout horizontal center-justified wrap>
           <paper-button
