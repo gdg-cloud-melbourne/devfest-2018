@@ -322,6 +322,24 @@
       }],
       "title" : "Developer Advocate"
     },
+    "elizabeth_wu" : {
+      "bio" : "Elizabeth is a Cloud Consultant for big data & analytics at Google. She has both a professional and research interest in the area of data mining/data science. She has gained experience in Business Intelligence, Data Warehousing, Data Mining and Data Management. She is generally interested in how to discover useful and interesting information from any type of data.",
+      "company" : "Google",
+      "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Elizabeth Wu",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/Elizabeth_Wu.jpg",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/Elizabeth_Wu.jpg",
+      "shortBio" : "Cloud Consultant",
+      "socials" : [        {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/elizabethwu",
+        "name" : "LinkedIN"
+      }],
+      "title" : "Developer Advocate"
+    },
     "jemma_stones" : {
       "bio" : "Jemma is a consultant specialising in data engineering and solution architecture, and works at Servian. She has a particular interest in Big Data applications on cloud technologies, and is also a certified GCP Professional Data Engineer & AWS Solutions Architect.",
       "company" : "Servian",
