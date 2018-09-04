@@ -301,7 +301,11 @@
       "photo" : "https://devfest.gdgcloud.melbourne/images/people/scott-thomson.jpg",
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/scott-thomson.jpg",
       "shortBio" : "Customer Solutions & Innovation APAC",
-      "socials" : [],
+      "socials" : [        {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/sufood",
+        "name" : "Twitter"
+      }]
       "title" : "Customer Solutions & Innovation APAC"
     },
     "ankur_kotwal" : {
