@@ -15,8 +15,28 @@
       "logoUrl" : "images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.au/intl/en/about/"
-    }],
-    "title" : "General Partner"
+    },
+      {
+      "logoUrl" : "images/logos/shine_solutions.png",
+      "name" : "Shine Solutions",
+      "url" : "https://shinesolutions.com/"
+    },
+      {
+        "logoUrl" : "images/logos/ANZ.jpeg",
+        "name" : "ANZ",
+        "url" : "https://www.anz.com.au/personal/"
+      },
+      {
+        "logoUrl" : "images/logos/rea-logo.jpg",
+        "name" : "REA",
+        "url" : "https://www.anz.com.au/personal/"
+      },
+      {
+        "logoUrl" : "images/logos/papercut-stacked.png",
+        "name" : "PaperCut",
+        "url" : "https://www.papercut.com"
+      }],
+    "title" : "Our partners..."
   } ],
   "schedule" : {
     "2018-11-24" : {
