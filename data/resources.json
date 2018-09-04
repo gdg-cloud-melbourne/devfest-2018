@@ -1,8 +1,8 @@
 {
   "title": "GDG DevFest Season 2018",
   "description": "GDG Cloud Melbourne",
-  "image": "images/devfest-share-3.jpeg",
-  "keywords": "event, gdg, gde, devfest, google, programming, ml, data, web, cloud, iot",
+  "image": "images/social-share-2.jpeg",
+  "keywords": "event, gdg, gde, devfest, google, programming, ml, data, cloud, iot, gcp, googlecloud",
   "dates": "November 24, 2018",
   "partnershipProposition": "",
   "share": "Share",
@@ -72,15 +72,15 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codBlock": {
     "title" : "Code of Conduct",
-    "summary" : "GDG Cloud Melbourne DevFest is dedicated to providing a harassment-free conference experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers. ",
+    "summary" : "GDG Cloud Melbourne is dedicated to providing a harassment-free DevFest experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of DevFest participants in any form. Sexual language and imagery is not appropriate for any DevFest venue, including talks. DevFest participants violating these rules may be sanctioned or expelled from the DevFest without a refund at the discretion of the DevFest organizers. ",
     "linkDetail": "Our anti-harassment policy can be found at ",
     "link": "/cod",
     "linkLabel": "devfest.gdgcloud.melbourne/cod"
   },
   "devFestBlock": {
-    "title": "What is DevFest?",
-    "description": "GDG DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. There are two events happening right here in Melbourne!",
-    "androidGDGText": "For the event run by our friends the Melbourne Android GDG group head",
+    "title": "What is a DevFest?",
+    "description": "DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. There are two DevFests happening right here in Melbourne!",
+    "androidGDGText": "GDG Cloud Melbourne are running this one, which is specifically focused on Google Cloud content. There is another DevFest being run by our friends from the Melbourne Android GDG group, and they'll be focussing on Mobile & Web technologies (not Google Cloud). For more info on their DevFest swing",
     "androidGDGLinkText": "over here",
     "androidGDGLink": "https://www.gdgmelbourne.com/devfest-2018/"
 
