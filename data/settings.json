@@ -107,13 +107,13 @@
   },
   "contentLoaders": {
     "schedule": {
-      "itemsCount": 13
+      "itemsCount": 17
     },
     "blog": {
       "itemsCount": 0
     },
     "speakers": {
-      "itemsCount": 4
+      "itemsCount": 5
     },
     "previousSpeakers": {
       "itemsCount": 0
