@@ -35,7 +35,12 @@
         "logoUrl" : "images/logos/papercut-stacked.png",
         "name" : "PaperCut",
         "url" : "https://www.papercut.com"
-      }],
+      },
+      {
+        "logoUrl" : "images/logos/WT_logo_vertical_pos.png",
+        "name" : "Women Techmakers",
+        "url" : "https://www.womentechmakers.com/"
+      },],
     "title" : "Our partners..."
   } ],
   "schedule" : {
@@ -337,8 +342,8 @@
       "title" : "GDG Cloud Melbourne organiser"
     }, {
       "name" : "Dylan Graham",
-      "photo" : "/images/people/dylan_graham.jpeg",
-      "photoUrl" : "https://secure.meetupstatic.com/photos/member/4/0/e/7/highres_268696615.jpeg",
+      "photo" : "/images/people/dylan_graham.png",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/dylan_graham.png",
       "socials" : [],
       "title" : "GDG Cloud Melbourne organiser"
     }, {
