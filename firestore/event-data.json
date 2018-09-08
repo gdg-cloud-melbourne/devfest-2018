@@ -37,11 +37,16 @@
         "url" : "https://www.papercut.com"
       },
       {
+        "logoUrl" : "images/logos/DRD-Logo-Horizontal.png",
+        "name" : "Data Runs Deep",
+        "url" : "https://datarunsdeep.com.au/"
+      },
+      {
         "logoUrl" : "images/logos/WT_logo_vertical_pos.png",
         "name" : "Women Techmakers",
         "url" : "https://www.womentechmakers.com/"
       }],
-    "title" : "Our partners..."
+    "title" : "Our Supporters"
   } ],
   "schedule" : {
     "2018-11-24" : {
