@@ -345,6 +345,8 @@ const sessionsActions = {
         snaps.docs.forEach((doc) => {
           const data = doc.data();
           const session = Object.assign({}, data, { id: doc.id });
+          // eslint-disable-next-line no-console
+          console.log('found session: \n' + JSON.stringify(session));
           list.push(session);
           obj[doc.id] = session;
 
