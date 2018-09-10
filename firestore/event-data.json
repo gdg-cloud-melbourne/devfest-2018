@@ -285,6 +285,31 @@
       }],
       "title" : "Developer Advocate"
     },
+    "dave_cheney" : {
+      "bio": "David is a Staff Engineer at Heptio, a Seattle based company focused on helping developers become more productive using Kubernetes. Before to joining Heptio he worked at Atlassian, Canonical, and the Australian Government, in a variety of cloud infrastructure roles. Prior to these roles he had a long career in the operations and system administration space for Australian startups RedBubble, MailGuard, and Aconex.\n\nHe is an open source contributor and project member for the Go programming language. David is a well-respected voice within the tech community, speaking on a variety of topics such as software design, performance, and the Go programming language. He lives in Sydney, Australia and is damn proud of it!\n\nIn 2009, while idly perusing Google Reader (we’ll never forget!) he ran across the announcement of a new open source language, Go. It was love at first sight. From that point David’s passion has taken him around the world writing, teaching, and speaking about Go.",
+      "company": "Heptio",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Australia",
+      "featured": true,
+      "name": "Dave Cheney",
+      "photo": "https://devfest.gdgcloud.melbourne/images/people/dave_cheney_bw.jpg",
+      "photoUrl": "https://devfest.gdgcloud.melbourne/images/people/dave_cheney_bw.jpg",
+      "shortBio": "Staff Engineer",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "https://dave.cheney.net/about",
+          "name": "Website"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/@davecheney",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Staff Engineer"
+    },
     "elizabeth_wu" : {
       "bio" : "Elizabeth Wu is a Cloud Consultant in Big Data and Analytics within the Professional Services Organisaton of Google Australia. In this role she helps customers to accelerate their journey to the cloud. Elizabeth has over 10 years experience helping organisations across a wide range of industries including Government, Education, Financial Services, Utilities and Healthcare solve their strategic challenges by making their data accessible and useful.",
       "company" : "Google",
@@ -342,26 +367,6 @@
         }
       ],
       "title": "Consultant"
-    },
-    "dave_cheney" : {
-      "bio": "David is a Staff Engineer at Heptio, a Seattle based company focused on helping developers become more productive using Kubernetes. Before to joining Heptio he worked at Atlassian, Canonical, and the Australian Government, in a variety of cloud infrastructure roles. Prior to these roles he had a long career in the operations and system administration space for Australian startups RedBubble, MailGuard, and Aconex.\n\nHe is an open source contributor and project member for the Go programming language. David is a well-respected voice within the tech community, speaking on a variety of topics such as software design, performance, and the Go programming language. He lives in Sydney, Australia and is damn proud of it!\n\nIn 2009, while idly perusing Google Reader (we’ll never forget!) he ran across the announcement of a new open source language, Go. It was love at first sight. From that point David’s passion has taken him around the world writing, teaching, and speaking about Go.",
-      "company": "Heptio",
-      "companyLogo": "",
-      "companyLogoUrl": "",
-      "country": "Australia",
-      "featured": true,
-      "name": "Dave Cheney",
-      "photo": "https://devfest.gdgcloud.melbourne/images/people/dave_cheney_bw.jpg",
-      "photoUrl": "https://devfest.gdgcloud.melbourne/images/people/dave_cheney_bw.jpg",
-      "shortBio": "Staff Engineer",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/@davecheney",
-          "name": "Twitter"
-        }
-      ],
-      "title": "Staff Engineer"
     }
   },
   "team" : [ {
