@@ -131,13 +131,13 @@
       "title" : "Break"
     },
     "104" : {
-      "complexity" : "All",
-      "description" : "Talk 3",
+      "complexity" : "Advanced",
+      "description" : "The Kubernetes Ingress object has a number of limitations which over the years have been papered over with annotations. Contour, the Ingress controller my team at Heptio are building, recently introduced a new Ingress object which addresses the existing limitations and unlocks the ability for teams and operators to have more control over ingress deployments in multi team and multi tenant scenarios. In this short talk I'll explain the limitations of the current ingress object and how our new Ingress object addresses those shortcomings while making it possible for multiple teams to collaborate and delegate responsibility using various routing patterns and strategies that our new Ingress object makes possible.",
       "language" : "",
       "presentation" : "",
-      "speakers" : [],
+      "speakers" : ["dave_cheney"],
       "tags" : [],
-      "title" : "Talk 3"
+      "title" : "Addressing the limitations of Kubernetes' Ingress object"
     },
     "105" : {
       "complexity" : "All",
