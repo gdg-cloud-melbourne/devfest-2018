@@ -136,7 +136,7 @@
       "language" : "",
       "presentation" : "",
       "speakers" : ["dave_cheney"],
-      "tags" : [],
+      "tags" : ["Kubernetes"],
       "title" : "Addressing the limitations of Kubernetes' Ingress object"
     },
     "105" : {
