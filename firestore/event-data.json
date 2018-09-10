@@ -249,6 +249,24 @@
       }],
       "title" : "Customer Solutions & Innovation APAC"
     },
+    "debora_elkin" : {
+      "bio" : "Debora has over 20 years experience working in the IT industry in a variety of technical pre-sales and consulting roles encompassing almost all aspects of systems architecture, design and development. She has participated in, as well as led, several large projects in the finance, telecommunications and government industries, where she architected, designed and implemented innovative solutions.\n\nShe is recognised as an expert in Middleware, with in-depth technical knowledge of API Management, SOA, Business Process Management, Cloud Technologies, Integration, Application Servers, J2EE, In-Memory Data Grids, SOA Monitoring and Management Tools.\n\nShe also has extensive experience in Natural Language Understanding and Conversational Systems",
+      "company" : "Google",
+      "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Debora Elkin",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/debora_elkin.jpeg",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/debora_elkin.jpeg",
+      "shortBio" : "Technical Solution Architect at Google Cloud Apigee",
+      "socials" : [        {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/debora-elkin-171234/",
+        "name" : "LinkedIn"
+      }],
+      "title" : "Technical Solution Architect at Google Cloud Apigee"
+    },
     "ankur_kotwal" : {
       "bio" : "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he also helped launch the Google Maps APIs gaming offering. Ankur is also the product manager and a software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
       "company" : "Google",
@@ -281,7 +299,7 @@
       "socials" : [        {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/elizabethwu",
-        "name" : "LinkedIN"
+        "name" : "LinkedIn"
       }],
       "title" : "Cloud Consultant"
     },
