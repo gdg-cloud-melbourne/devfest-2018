@@ -285,6 +285,25 @@
       }],
       "title" : "Developer Advocate"
     },
+    "michelle_gleeson" : {
+      "bio" : "I am software development leader and I’m passionate about growing people and teams, building strong cultures and coaching better technical practices. I love clean code, pair programming, test driven development and enjoy passing on my knowledge and experience to up and coming developers. I am a passionate advocate for diversity and inclusion, and champion initiatives to drive cultural change. I blog and speak about all these things at tech events in and around Melbourne.",
+      "company" : "SEEK",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Australia",
+      "featured" : true,
+      "name" : "Michelle Gleeson",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/michelle_gleeson.jpeg",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/michelle_gleeson.jpeg",
+      "shortBio" : "Software Development Leader",
+      "socials" : [
+        {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/gleeson-m/",
+        "name" : "LinkedIn"
+      }],
+      "title" : "Software Development Leader"
+    },
     "dave_cheney" : {
       "bio": "David is a Staff Engineer at Heptio, a Seattle based company focused on helping developers become more productive using Kubernetes. Before to joining Heptio he worked at Atlassian, Canonical, and the Australian Government, in a variety of cloud infrastructure roles. Prior to these roles he had a long career in the operations and system administration space for Australian startups RedBubble, MailGuard, and Aconex.\n\nHe is an open source contributor and project member for the Go programming language. David is a well-respected voice within the tech community, speaking on a variety of topics such as software design, performance, and the Go programming language. He lives in Sydney, Australia and is damn proud of it!\n\nIn 2009, while idly perusing Google Reader (we’ll never forget!) he ran across the announcement of a new open source language, Go. It was love at first sight. From that point David’s passion has taken him around the world writing, teaching, and speaking about Go.",
       "company": "Heptio",
