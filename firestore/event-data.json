@@ -170,8 +170,8 @@
       "complexity" : "All",
       "description" : "IoT with data & analytics",
       "language" : "",
-      "presentation" : "elizabeth_wu",
-      "speakers" : [],
+      "presentation" : "",
+      "speakers" : ["elizabeth_wu"],
       "tags" : ["IoT", "Analytics", "Data"],
       "title" : "IoT with data & analytics"
     },
