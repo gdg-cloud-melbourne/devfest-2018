@@ -97,7 +97,7 @@
     "100" : {
       "complexity" : "All",
       "description" : "Ankur Kotwal will be kicking off our event.",
-      "language" : "English",
+      "language" : "",
       "presentation" : "",
       "speakers" : [ "ankur_kotwal"],
       "tags" : [ "Cloud" ],
@@ -105,21 +105,21 @@
     },
     "101" : {
       "complexity" : "All",
-      "description" : "Talk 1",
+      "description" : "Sentiment Analsysis on GCP",
       "language" : "",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "Talk 1"
+      "speakers" : ["gareth_jones"],
+      "tags" : ["ML"],
+      "title" : "Sentiment Analsysis on GCP"
     },
     "102" : {
       "complexity" : "All",
-      "description" : "Talk 2",
+      "description" : "TBA",
       "language" : "",
       "presentation" : "",
       "speakers" : [],
       "tags" : [],
-      "title" : "Talk 2"
+      "title" : "TBA"
     },
     "103" : {
       "complexity" : "All",
@@ -141,12 +141,12 @@
     },
     "105" : {
       "complexity" : "All",
-      "description" : "Talk 4",
+      "description" : "From DevOps to a DevOps Culture",
       "language" : "",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "Talk 4"
+      "speakers" : ["michelle_gleeson"],
+      "tags" : ["Culture", "DevOps"],
+      "title" : "From DevOps to a DevOps Culture"
     },
     "106" : {
       "complexity" : "All",
@@ -168,21 +168,21 @@
     },
     "108" : {
       "complexity" : "All",
-      "description" : "Talk 6",
+      "description" : "IoT with data & analytics",
       "language" : "",
-      "presentation" : "",
+      "presentation" : "elizabeth_wu",
       "speakers" : [],
-      "tags" : [],
-      "title" : "Talk 6"
+      "tags" : ["IoT", "Analytics", "Data"],
+      "title" : "IoT with data & analytics"
     },
     "109" : {
       "complexity" : "All",
-      "description" : "Talk 7",
+      "description" : "Istio and Kubernetes",
       "language" : "",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "Talk 7"
+      "speakers" : ["debora_elkin"],
+      "tags" : ["Istio", "Kubernetes", "DevOps"],
+      "title" : "Istio and Kubernetes"
     },
     "110" : {
       "complexity" : "All",
@@ -195,12 +195,12 @@
     },
     "111" : {
       "complexity" : "All",
-      "description" : "Talk 8",
+      "description" : "Scott will be giving us an overview of the current state of play of serverless technologies on the Google Cloud  Platform",
       "language" : "",
       "presentation" : "",
-      "speakers" : [],
+      "speakers" : ["scott_thomson"],
       "tags" : [],
-      "title" : "Talk 8"
+      "title" : "Serverless on the Google Cloud Platform"
     },
     "112" : {
       "complexity" : "All",
