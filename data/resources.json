@@ -89,9 +89,9 @@
     "title": "We're passionate about cloud computing...",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG Cloud Melbourne DevFest is an event for the Google Cloud community. It's a chance for Google Cloud enthusiasts to share, learn and generally geek out!",
-        "label": "Explore featured session (TBA)",
-        "link": ""
+        "description": "GDG Cloud Melbourne DevFest is an event for the Google Cloud community. It's a chance for Google Cloud enthusiasts to share, learn and generally geek out!\n\nWe'll be covering a diverse range of topics including IoT, ML, Serverless, Kubernetes and Culture",
+        "label": "Explore presentations here",
+        "link": "/schedule/"
       }
     }
   },
@@ -108,7 +108,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
