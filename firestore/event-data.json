@@ -386,26 +386,6 @@
         }
       ],
       "title": "Consultant"
-    },
-    "jamie wilkinson" : {
-      "bio": "Jamie Wilkinson is a Site Reliability Engineer at Google. Contributing author to the SRE Book, he has presented on contemporary topics at prominent conferences such as linux.conf.au, Monitorama, Velocity, and SRECon. His interests began in monitoring and automation of small installations but continues with human factors in automation and systems maintenance on large systems. Despite over 15 years in the industry, he is still trying to automate himself out of a job.",
-      "company": "Google",
-      "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
-      "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
-      "country": "Australia",
-      "featured": true,
-      "name": "Jamie Wilkinson",
-      "photo": "https://devfest.gdgcloud.melbourne/images/people/jamie_wilkinson.jpeg",
-      "photoUrl": "https://devfest.gdgcloud.melbourne/images/people/jamie_wilkinson.jpeg",
-      "shortBio": "Site Reliability Engineer",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/@jaqx0r",
-          "name": "Twitter"
-        }
-      ],
-      "title": "Site Reliability Engineer"
     }
   },
   "team" : [ {
