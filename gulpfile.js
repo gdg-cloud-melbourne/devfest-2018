@@ -137,6 +137,7 @@ function build() {
           .pipe(uglify())
           .pipe(gulp.dest(config.build.rootDirectory));
       })
+      .then(copySitemap)
       .then(() => {
         console.log('Build complete!');
         resolve();
@@ -181,6 +182,15 @@ function compileTemplate() {
       return waitFor(template.compile(config, polymerJson));
     });
 }
+function copySitemap() {
+  return gulp.src([
+    'sitemap.xml',
+  ], {
+    base: '.',
+  })
+    .pipe(gulp.dest(config.build.rootDirectory));
+}
+
 
 function copyStatic() {
   return gulp.src([
