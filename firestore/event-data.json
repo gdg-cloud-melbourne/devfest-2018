@@ -237,7 +237,7 @@
       "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
       "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
       "country" : "Australia",
-      "featured" : true,
+      "featured" : false,
       "name" : "Scott Thomson",
       "photo" : "https://devfest.gdgcloud.melbourne/images/people/scott-thomson.jpg",
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/scott-thomson.jpg",
@@ -255,7 +255,7 @@
       "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
       "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
       "country" : "Australia",
-      "featured" : false,
+      "featured" : true,
       "name" : "Debora Elkin",
       "photo" : "https://devfest.gdgcloud.melbourne/images/people/debora_elkin.jpeg",
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/debora_elkin.jpeg",
@@ -366,6 +366,26 @@
       }
       ],
       "title" : "Managing Consultant"
+    },
+    "emma_haruka_iwao" : {
+      "bio" : "Emma is a developer advocate for Google Cloud Platform, focusing on application developers experience and high performance computing. She has been a C++ developer for 15 years and worked on embedded systems and the Chromium Project. Emma is passionate about learning and explaining the most fundamental technologies such as operating systems, distributed systems, and internet protocols. Besides software engineering, she likes games, traveling, and eating delicious food.",
+      "company" : "Google",
+      "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "country" : "Japan",
+      "featured" : false,
+      "name" : "Emma Haruka Iwao",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/emma.png",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/emma.png",
+      "shortBio" : "Developer Advocate",
+      "socials" : [
+        {
+        "icon": "twitter",
+        "link": "https://twitter.com/@Yuryu",
+        "name": "Twitter"
+      }
+      ],
+      "title" : "Developer Advocate"
     },
     "gareth_jones" : {
       "bio": "I'm a developer with 20 years experience. So, old. I live in Melbourne, working on Big Data, Machine Learning, and other buzzwords. I maintain the popular(ish) node.js logging package log4js-node.",
