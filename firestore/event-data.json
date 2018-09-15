@@ -347,6 +347,20 @@
       }],
       "title" : "Cloud Consultant"
     },
+    "nathan_faggian" : {
+      "bio" : "Dr Nathan Faggian is a technical expert focused on machine learning, big data and analytics using the Google Cloud Platform. As a Google cloud consultant his role is to help large enterprise adopt and make the best use of cloud computing through technical leadership and guidance.\n\nNathan holds a PhD in computer science (computer vision) and has been an academic in multiple domains, with a career that has spanned computational science, meteorology and medical science.\n\nPrior to Google, Nathan was a high performance computing  section head, predictive services manager and research scientist at the Australian Bureau of Meteorology, Data Scientist and Applied Scientist at Microsoft and Research Fellow at the Centre for Neuroscience at Melbourne University. ",
+      "company" : "Google",
+      "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "country" : "Australia",
+      "featured" : false,
+      "name" : "Nathan Faggian",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/nathan_faggian.png",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/nathan_faggian.png",
+      "shortBio" : "Cloud Consultant",
+      "socials" : [],
+      "title" : "Cloud Consultant"
+    },
     "jemma_stones" : {
       "bio" : "Jemma is a consultant specialising in data engineering and solution architecture, and works at Servian. She has a particular interest in Big Data applications on cloud technologies, and is also a certified GCP Professional Data Engineer & AWS Solutions Architect.",
       "company" : "Servian",
