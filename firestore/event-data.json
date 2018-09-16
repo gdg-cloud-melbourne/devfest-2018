@@ -32,6 +32,11 @@
         "url" : "https://www.papercut.com"
       },
       {
+        "logoUrl" : "images/logos/cap.png",
+        "name" : "Capgemini",
+        "url" : "https://www.capgemini.com"
+      },
+      {
         "logoUrl" : "images/logos/DRD-Logo-Horizontal.png",
         "name" : "Data Runs Deep",
         "url" : "https://datarunsdeep.com.au/"
