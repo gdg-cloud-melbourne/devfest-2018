@@ -72,8 +72,7 @@
         {"sessions" : [ { "items" : ["110"] } ], "startTime" : "15:00",  "endTime" : "15:30" },
         {"sessions" : [ { "items" : ["111"] } ], "startTime" : "15:30",  "endTime" : "16:00" },
         {"sessions" : [ { "items" : ["112"] } ], "startTime" : "16:05",  "endTime" : "16:35" },
-        {"sessions" : [ { "items" : ["113"] } ], "startTime" : "16:35",  "endTime" : "16:45" },
-        {"sessions" : [ { "items" : ["114"] } ], "startTime" : "16:45",  "endTime" : "17:15" }
+        {"sessions" : [ { "items" : ["113"] } ], "startTime" : "16:35",  "endTime" : "16:45" }
       ],
       "tracks" : [ {
         "title" : "Speakers"
@@ -85,157 +84,95 @@
   },
   "sessions" : {
     "90" : {
-      "complexity" : "All",
       "description" : "Registration",
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
+      "icon" : "registration",
       "title" : "Registration"
     },
     "95" : {
-      "complexity" : "All",
       "description" : "An introduction from the organisers",
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
+      "icon" : "opening",
       "title" : "Welcome"
     },
     "100" : {
-      "complexity" : "All",
       "description" : "Ankur Kotwal will be kicking off our event.",
-      "language" : "",
-      "presentation" : "",
       "speakers" : [ "ankur_kotwal"],
       "tags" : [ "Cloud" ],
       "title" : "Keynote"
     },
     "101" : {
-      "complexity" : "All",
-      "description" : "Sentiment Analsysis on GCP",
-      "language" : "",
-      "presentation" : "",
+      "description" : "Sentiment Analysis on GCP",
       "speakers" : ["gareth_jones"],
       "tags" : ["ML"],
-      "title" : "Sentiment Analsysis on GCP"
+      "title" : "Sentiment Analysis on GCP"
     },
     "102" : {
-      "complexity" : "All",
       "description" : "From DevOps to a DevOps Culture",
-      "language" : "",
-      "presentation" : "",
       "speakers" : ["michelle_gleeson"],
       "tags" : ["Culture", "DevOps"],
       "title" : "From DevOps to a DevOps Culture"
     },
     "103" : {
-      "complexity" : "All",
       "description" : "Break for snacks and networking",
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
+      "icon" : "coffee-break",
       "title" : "Break"
     },
     "104" : {
-      "complexity" : "Advanced",
       "description" : "The Kubernetes Ingress object has a number of limitations which over the years have been papered over with annotations. Contour, the Ingress controller my team at Heptio are building, recently introduced a new Ingress object which addresses the existing limitations and unlocks the ability for teams and operators to have more control over ingress deployments in multi team and multi tenant scenarios. In this short talk I'll explain the limitations of the current ingress object and how our new Ingress object addresses those shortcomings while making it possible for multiple teams to collaborate and delegate responsibility using various routing patterns and strategies that our new Ingress object makes possible.",
-      "language" : "",
-      "presentation" : "",
       "speakers" : ["dave_cheney"],
       "tags" : ["Kubernetes"],
       "title" : "Addressing the limitations of Kubernetes' Ingress object"
     },
     "105" : {
-      "complexity" : "All",
       "description" : "TBA",
-      "language" : "",
-      "presentation" : "",
       "speakers" : [],
       "tags" : [],
       "title" : "TBA"
     },
     "106" : {
-      "complexity" : "All",
       "description" : "Lunch Break",
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
+      "icon" : "lunch",
       "title" : "Lunch"
     },
     "107" : {
       "complexity" : "All",
-      "description" : "Some rapid talks from the trenches",
-      "language" : "",
-      "presentation" : "",
+      "description" : "TBA",
       "speakers" : [],
       "tags" : [],
-      "title" : "Lightning Talks"
+      "title" : "TBA"
     },
     "108" : {
-      "complexity" : "All",
       "description" : "IoT with data & analytics",
-      "language" : "",
-      "presentation" : "",
       "speakers" : ["elizabeth_wu"],
       "tags" : ["IoT", "Analytics", "Data"],
       "title" : "IoT with data & analytics"
     },
     "109" : {
-      "complexity" : "All",
       "description" : "Istio and Kubernetes",
-      "language" : "",
-      "presentation" : "",
       "speakers" : ["debora_elkin"],
       "tags" : ["Istio", "Kubernetes", "DevOps"],
       "title" : "Istio and Kubernetes"
     },
     "110" : {
-      "complexity" : "All",
       "description" : "Break for snacks and networking",
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
+      "icon" : "lunch",
       "title" : "Lunch"
     },
     "111" : {
-      "complexity" : "All",
       "description" : "Scott will be giving us an overview of the current state of play of serverless technologies on the Google Cloud  Platform",
-      "language" : "",
-      "presentation" : "",
       "speakers" : ["scott_thomson"],
       "tags" : ["Serverless"],
       "title" : "Serverless on the Google Cloud Platform"
     },
     "112" : {
-      "complexity" : "All",
-      "description" : "Talk 9",
-      "language" : "",
-      "presentation" : "",
+      "description" : "TBA",
       "speakers" : [],
       "tags" : [],
-      "title" : "Talk 9"
+      "title" : "TBA"
     },
     "113" : {
-      "complexity" : "All",
       "description" : "Wrapping it up",
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
+      "icon" : "party"
       "title" : "Closing"
-    },
-    "114" : {
-      "complexity" : "All",
-      "description" : "Networking",
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "Networking"
     }
   },
   "speakers" : {
