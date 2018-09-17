@@ -154,8 +154,8 @@
     },
     "110" : {
       "description" : "Break for snacks and networking",
-      "icon" : "lunch",
-      "title" : "Lunch"
+      "icon" : "coffee-break",
+      "title" : "Break"
     },
     "111" : {
       "description" : "Scott will be giving us an overview of the current state of play of serverless technologies on the Google Cloud  Platform",
