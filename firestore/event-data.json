@@ -114,12 +114,12 @@
     },
     "102" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "From DevOps to a DevOps Culture",
       "language" : "",
       "presentation" : "",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "speakers" : ["michelle_gleeson"],
+      "tags" : ["Culture", "DevOps"],
+      "title" : "From DevOps to a DevOps Culture"
     },
     "103" : {
       "complexity" : "All",
@@ -141,12 +141,12 @@
     },
     "105" : {
       "complexity" : "All",
-      "description" : "From DevOps to a DevOps Culture",
+      "description" : "TBA",
       "language" : "",
       "presentation" : "",
-      "speakers" : ["michelle_gleeson"],
-      "tags" : ["Culture", "DevOps"],
-      "title" : "From DevOps to a DevOps Culture"
+      "speakers" : [],
+      "tags" : [],
+      "title" : "TBA"
     },
     "106" : {
       "complexity" : "All",
