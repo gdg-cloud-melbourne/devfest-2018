@@ -47,6 +47,11 @@
         "url" : "https://servian.com.au/"
       },
       {
+        "logoUrl" : "images/logos/digio.png",
+        "name" : "DigIO",
+        "url" : "https://digio.com.au/"
+      },
+      {
         "logoUrl" : "images/logos/WT_logo_vertical_pos.png",
         "name" : "Women Techmakers",
         "url" : "https://www.womentechmakers.com/"
