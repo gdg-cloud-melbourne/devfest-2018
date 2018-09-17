@@ -76,7 +76,10 @@
         {"sessions" : [ { "items" : ["114"] } ], "startTime" : "16:45",  "endTime" : "17:15" }
       ],
       "tracks" : [ {
-        "title" : "Main"
+        "title" : "Speakers"
+      },
+        {
+        "title" : "Code labs"
       }]
     }
   },
