@@ -57,21 +57,24 @@
     "2018-11-24" : {
       "dateReadable" : "November 24",
       "timeslots" : [
-        {"sessions" : [ { "items" : ["90"] } ], "startTime" : "09:00",  "endTime" : "09:15" },
-        {"sessions" : [ { "items" : ["95"] } ], "startTime" : "09:15",  "endTime" : "09:20" },
-        {"sessions" : [ { "items" : ["100"] } ], "startTime" : "09:20",  "endTime" : "09:50" },
-        {"sessions" : [ { "items" : ["101"] } ], "startTime" : "09:55",  "endTime" : "10:25" },
-        {"sessions" : [ { "items" : ["102"] } ], "startTime" : "10:30",  "endTime" : "11:00" },
-        {"sessions" : [ { "items" : ["103"] } ], "startTime" : "11:00",  "endTime" : "11:30" },
-        {"sessions" : [ { "items" : ["104"] } ], "startTime" : "11:30",  "endTime" : "12:00" },
-        {"sessions" : [ { "items" : ["105"] } ], "startTime" : "12:05",  "endTime" : "12:50" },
-        {"sessions" : [ { "items" : ["106"] } ], "startTime" : "12:50",  "endTime" : "13:20" },
-        {"sessions" : [ { "items" : ["107"] } ], "startTime" : "13:20",  "endTime" : "13:50" },
-        {"sessions" : [ { "items" : ["108"] } ], "startTime" : "13:55",  "endTime" : "14:25" },
-        {"sessions" : [ { "items" : ["109"] } ], "startTime" : "14:30",  "endTime" : "15:00" },
-        {"sessions" : [ { "items" : ["110"] } ], "startTime" : "15:00",  "endTime" : "15:30" },
-        {"sessions" : [ { "items" : ["111"] } ], "startTime" : "15:30",  "endTime" : "16:00" },
-        {"sessions" : [ { "items" : ["112"] } ], "startTime" : "16:05",  "endTime" : "16:35" },
+        {"sessions" : [ { "extend" : 2, "items" : ["90"] } ], "startTime" : "09:00",  "endTime" : "09:15" },
+        {"sessions" : [ { "extend" : 2, "items" : ["95"] } ], "startTime" : "09:15",  "endTime" : "09:20" },
+
+        {"sessions" : [ { "items" : ["100"] }], "startTime" : "09:20",  "endTime" : "9:50" },
+        {"sessions" : [ { "items" : ["111", "102"] }, { "items": [ "150" ] }], "startTime" : "09:55",  "endTime" : "11:00" },
+
+        {"sessions" : [ { "items" : ["103"] }], "startTime" : "11:00",  "endTime" : "11:30" },
+
+        {"sessions" : [ { "items" : ["104", "105"] }], "startTime" : "11:30", "endTime" : "12:50" },
+
+        {"sessions" : [ { "items" : ["106"] }], "startTime" : "12:50",  "endTime" : "13:20" },
+
+        {"sessions" : [ { "items" : ["107", "108", "109"] }], "startTime" : "13:20",  "endTime" : "15:00" },
+
+        {"sessions" : [ { "items" : ["110"] }], "startTime" : "15:00",  "endTime" : "15:30" },
+
+        {"sessions" : [ { "items" : ["101", "112"] }], "startTime" : "15:30",  "endTime" : "16:35" },
+
         {"sessions" : [ { "items" : ["113"] } ], "startTime" : "16:35",  "endTime" : "16:45" }
       ],
       "tracks" : [ {
@@ -173,6 +176,11 @@
       "description" : "Wrapping it up",
       "icon" : "party",
       "title" : "Closing"
+    },
+    "150" : {
+      "description" : "Daniel King will be assisting with Qwiklabs sessions. Come over and bust a console open between sessions.",
+      "icon" : "registration",
+      "title" : "Code labs"
     }
   },
   "speakers" : {
