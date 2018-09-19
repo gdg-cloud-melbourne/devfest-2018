@@ -4,13 +4,19 @@
 <link rel="import" href="../elements/footer-block.html">
 <link rel="import" href="../elements/md-content.html">
 
-<dom-module id="cod-page">
+<dom-module id="training-page">
   <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment"></style>
     <style>
       :host {
         display: block;
       }
+      .training-details {
+        margin-left: 20px;
+      }
     </style>
+
+
 
     <polymer-helmet
       title="{$ heroSettings.cod.title $} | {$ title $}"
@@ -24,11 +30,17 @@
       font-color="{$ heroSettings.cod.fontColor $}"
       active="[[active]]"
     >
-      <div class="hero-title highlight-font">{$ codBlock.title $}</div>
-      <p class="hero-description">{$ codBlock.description $}</p>
+      <div class="hero-title highlight-font">{$ trainingBlock.title $}</div>
+      <p>{$ trainingBlock.description $}</p>
     </hero-block>
 
-    <md-content md-source="[[source]]"></md-content>
+
+    <div class="training-details" >
+
+      <a href="{$ trainingBlock.url $}" layout vertical center><img src="{$ trainingBlock.logoUrl $}" alt="{$ trainingBlock.name $}"></a>
+    </div>
+
+
 
     <footer-block></footer-block>
   </template>
@@ -36,9 +48,9 @@
   <script>
 
     // eslint-disable-next-line no-undef
-    class CodPage extends Polymer.Element {
+    class TrainingPage extends Polymer.Element {
       static get is() {
-        return 'cod-page';
+        return 'training-page';
       }
 
       static get properties() {
@@ -46,12 +58,12 @@
           active: Boolean,
           source: {
             type: String,
-            value: '{$ cod $}',
+            value: '{$ training $}',
           },
         };
       }
     }
 
-    window.customElements.define(CodPage.is, CodPage);
+    window.customElements.define(TrainingPage.is, TrainingPage);
   </script>
 </dom-module>

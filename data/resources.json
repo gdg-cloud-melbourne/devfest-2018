@@ -77,6 +77,13 @@
     "link": "/cod",
     "linkLabel": "devfest.gdgcloud.melbourne/cod"
   },
+  "trainingBlock": {
+    "title" : "Training",
+    "description" : "A dedicated space is available for free GCP training with Qwiklabs.  An instructor will be present to help with any questions, just remember to bring a laptop on the day. ",
+    "logoUrl" : "images/logos/qwiklabs.png",
+    "name" : "QwikLabs",
+    "url" : "https://qwiklabs.com"
+  },
   "devFestBlock": {
     "title": "What is a DevFest?",
     "description": "DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. There are two DevFests happening right here in Melbourne!",
