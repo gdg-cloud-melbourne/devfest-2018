@@ -46,6 +46,11 @@
       "route": "training",
       "permalink": "/training/",
       "label": "Hands-on Labs"
+    },
+    {
+      "route": "women-techmakers",
+      "permalink": "/women-techmakers/",
+      "label": "Women Techmakers"
     }
 
   ],

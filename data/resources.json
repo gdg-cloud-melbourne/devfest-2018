@@ -84,6 +84,13 @@
     "name" : "QwikLabs",
     "url" : "https://qwiklabs.com"
   },
+  "wtmBlock": {
+    "title" : "Women Techmakers Breakfast",
+    "description" : "As part of the DevFest, the Melbourne GDG Cloud team are running a Women Techmakers breakfast hosted at the Google office on Collins Street.\nGoogle's Women Techmakers program provides visibility, community, and resources for women in technology.\nThe speaker for the event will be Susan Aufgang, the first female developer in the Victorian Public Service.\nAll female identifying attendees are encouraged to attend, please keep an eye on your inbox for further event information or reach out to the organisers.",
+    "logoUrl" : "images/logos/WT_logo_vertical_pos.png",
+    "name" : "Women Techmakers",
+    "url" : "https://www.womentechmakers.com/"
+  },
   "devFestBlock": {
     "title": "What is a DevFest?",
     "description": "DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. There are two DevFests happening right here in Melbourne!",

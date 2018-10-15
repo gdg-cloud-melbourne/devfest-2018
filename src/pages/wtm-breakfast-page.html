@@ -1,0 +1,74 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../elements/polymer-helmet.html">
+<link rel="import" href="../elements/hero-block.html">
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../elements/md-content.html">
+
+<dom-module id="wtm-breakfast-page">
+  <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment"></style>
+    <style>
+      :host {
+        display: block;
+      }
+      .wtm-breakfast-details {
+        margin-left: 20px;
+      }
+
+      .wtm-image {
+        height: 50%;
+        width: 50%;
+      }
+    </style>
+
+
+
+    <polymer-helmet
+      title="{$ heroSettings.cod.title $} | {$ title $}"
+      description="{$ heroSettings.cod.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.cod.background.image $}"
+      background-color="{$ heroSettings.cod.background.color $}"
+      font-color="{$ heroSettings.cod.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ wtmBlock.title $}</div>
+      <p>{$ wtmBlock.description $}</p>
+    </hero-block>
+
+
+    <div class="wtm-breakfast-details" >
+
+      <a href="{$ wtmBlock.url $}" layout vertical center><img src="{$ wtmBlock.logoUrl $}" class="wtm-image" alt="{$ wtmBlock.name $}"></a>
+    </div>
+
+
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    // eslint-disable-next-line no-undef
+    class WTMBreakfastPage extends Polymer.Element {
+      static get is() {
+        return 'wtm-breakfast-page';
+      }
+
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ training $}',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(WTMBreakfastPage.is, WTMBreakfastPage);
+  </script>
+</dom-module>
