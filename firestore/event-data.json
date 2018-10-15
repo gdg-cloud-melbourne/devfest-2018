@@ -427,6 +427,13 @@
       "photoUrl" : "https://secure.meetupstatic.com/photos/member/7/6/b/3/highres_248070387.jpeg",
       "socials" : [ ],
       "title" : "GDG Cloud Melbourne organiser"
+    },
+    {
+      "name" : "James Boyce",
+      "photo" : "/images/people/james_boyce.jpeg",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/james_boyce.jpeg",
+      "socials" : [ ],
+      "title" : "Assistant organiser"
     }  ],
     "title" : "Core DevFest Team"
   } ],
