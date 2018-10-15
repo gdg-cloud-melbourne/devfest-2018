@@ -316,22 +316,22 @@
       "socials" : [],
       "title" : "Cloud Consultant"
     },
-    "jemma_stones" : {
-      "bio" : "Jemma is a consultant specialising in data engineering and solution architecture, and works at Servian. She has a particular interest in Big Data applications on cloud technologies, and is also a certified GCP Professional Data Engineer & AWS Solutions Architect.",
-      "company" : "Servian",
+    "sunita_mizar" : {
+      "bio" : "Sunita is focused on the successful delivery of business critical and high value/high impact IT development and service projects at Google.",
+      "company" : "Google",
       "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/servian-logo.png",
       "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/servian-logo.png",
       "country" : "Australia",
       "featured" : false,
-      "name" : "Jemma Stones",
-      "photo" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpg",
-      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/jemma_stones.jpg",
-      "shortBio" : "Managing Consultant",
+      "name" : "Sunita Mizar",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/sunita_mizar.jpg",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/sunita_mizar.jpg",
+      "shortBio" : "Program Management Lead",
       "socials" : [
         {
-        "icon": "twitter",
-        "link": "https://twitter.com/@jemstones",
-        "name": "Twitter"
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/sunita-mizar-a7a1a03/",
+        "name": "Program Management Lead"
       }
       ],
       "title" : "Managing Consultant"
@@ -402,20 +402,15 @@
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/dylan_graham.png",
       "socials" : [],
       "title" : "GDG Cloud Melbourne organiser"
-    }, {
-      "name" : "Darren Cibis",
-      "photo" : "/images/people/darren_cibis.jpeg",
-      "photoUrl" : "https://secure.meetupstatic.com/photos/member/6/b/1/4/highres_255207412.jpeg",
-      "socials" : [],
-      "title" : "GDG Cloud Melbourne organiser"
-    }, {
+    }, 
+    {
       "name" : "Ran Niu",
       "photo" : "/images/people/ran_niu.jpeg",
       "photoUrl" : "https://secure.meetupstatic.com/photos/member/7/6/b/3/highres_248070387.jpeg",
       "socials" : [ ],
       "title" : "GDG Cloud Melbourne organiser"
     }  ],
-    "title" : "Core Team"
+    "title" : "Core DevFest Team"
   } ],
   "triggers" : {
     "images" : false

@@ -41,7 +41,13 @@
       "route": "cod",
       "permalink": "/cod/",
       "label": "Code of Conduct"
+    },
+    {
+      "route": "training",
+      "permalink": "/training/",
+      "label": "Hands-on Labs"
     }
+
   ],
   "heroSettings": {
     "home": {

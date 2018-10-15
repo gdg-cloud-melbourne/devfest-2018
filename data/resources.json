@@ -77,6 +77,13 @@
     "link": "/cod",
     "linkLabel": "devfest.gdgcloud.melbourne/cod"
   },
+  "trainingBlock": {
+    "title" : "Hands-on Labs",
+    "description" : "A dedicated space will be available for hand-on labs with GCP using Qwiklabs.  Daniel King, who is a Google Developer Expert (GDE) for GCP & a qualified GCP trainer, will be present to help with any questions. Just remember to bring a laptop on the day.",
+    "logoUrl" : "images/logos/qwiklabs.png",
+    "name" : "QwikLabs",
+    "url" : "https://qwiklabs.com"
+  },
   "devFestBlock": {
     "title": "What is a DevFest?",
     "description": "DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. There are two DevFests happening right here in Melbourne!",
