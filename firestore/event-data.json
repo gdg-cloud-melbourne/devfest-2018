@@ -64,8 +64,8 @@
       "timeslots" : [
         {"sessions" : [ { "items" : ["90"] } ], "startTime" : "09:00",  "endTime" : "09:15" },
         {"sessions" : [ { "items" : ["95"] } ], "startTime" : "09:15",  "endTime" : "09:20" },
-        {"sessions" : [ { "items" : ["100"] }, { "extend" : 3, "items" : [ 150 ]} ], "startTime" : "09:20",  "endTime" : "09:50" },
-        {"sessions" : [ { "items" : ["111"] } ], "startTime" : "09:55",  "endTime" : "10:25" },
+        {"sessions" : [ { "items" : ["100"] } ], "startTime" : "09:20",  "endTime" : "09:50" },
+        {"sessions" : [ { "items" : ["111"] }, { "extend" : 12, "items" : [ 150 ]} ], "startTime" : "09:55",  "endTime" : "10:25" },
         {"sessions" : [ { "items" : ["102"] } ], "startTime" : "10:30",  "endTime" : "11:00" },
         {"sessions" : [ { "items" : ["103"] } ], "startTime" : "11:00",  "endTime" : "11:30" },
         {"sessions" : [ { "items" : ["104"] } ], "startTime" : "11:30",  "endTime" : "12:00" },
@@ -181,8 +181,10 @@
     },
     "150" : {
       "description" : "Daniel King will be assisting with Qwiklabs sessions. Come over and bust a console open between sessions.",
+      "speakers" : ["daniel_king"],
       "icon" : "registration",
-      "title" : "Code labs"
+      "title" : "Free assisted code labs (Own laptop required)",
+      "tags" : ["Training", "Free"]
     }
   },
   "speakers" : {
@@ -375,6 +377,22 @@
         }
       ],
       "title": "Consultant"
+    },
+    "daniel_king" : {
+      "bio": "As an experienced technologist Daniel has built a career in consulting, teaching and inspiring others to be enthusiastic about emerging technology adoption. He’s always been fascinated by what comes next and often speaks on a range of subjects engaging with developers and executives via conferences, meetups and summits around the world.",
+      "company": "Axalon",
+      "country": "Australia",
+      "featured": false,
+      "name": "Daniel King",
+      "photo": "https://devfest.gdgcloud.melbourne/images/people/daniel_king.jpeg",
+      "photoUrl": "https://devfest.gdgcloud.melbourne/images/people/daniel_king.jpeg",
+      "shortBio": "Cloud Architect. Technical Trainer and Speaker.",
+      "socials" : [        {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/danieldking/",
+        "name" : "LinkedIn"
+      }],
+      "title": "Cloud Architect. Technical Trainer and Speaker."
     }
   },
   "team" : [ {
@@ -402,7 +420,7 @@
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/dylan_graham.png",
       "socials" : [],
       "title" : "GDG Cloud Melbourne organiser"
-    }, 
+    },
     {
       "name" : "Ran Niu",
       "photo" : "/images/people/ran_niu.jpeg",
