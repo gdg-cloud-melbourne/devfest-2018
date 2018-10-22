@@ -105,10 +105,10 @@
       "title" : "Keynote"
     },
     "101" : {
-      "description" : "Sentiment Analysis on GCP",
+      "description" : "I'm going to talk about some work I did analysing user interactions for a large Australian superannuation company. I'll explain a bit about how sentiment analysis works, the work I did using the Natural Language API, and show some results.",
       "speakers" : ["gareth_jones"],
       "tags" : ["ML"],
-      "title" : "Sentiment Analysis on GCP"
+      "title" : "Sentiment Analysis"
     },
     "102" : {
       "description" : "From DevOps to a DevOps Culture",
@@ -139,11 +139,10 @@
       "title" : "Lunch"
     },
     "107" : {
-      "complexity" : "All",
-      "description" : "TBA",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "description" : "Using frameworks like tensorflow, scikit-learn or pytorch predictive models can be developed quickly and easily but, often, customers struggle with walking the full machine learning (ML) life cycle; that is the process of taking a model from concept to operations and then scaling it up to meet demand.\n\nIn this talk we walk the full ML lifecycle and show the audience how to take a model that you can run on a laptop and transform it into one that can run at scale on the Google Cloud Platform by leveraging a series of our tools and open-source libraries.\n\nThe talk will demonstrate a layered approach to the problem; going through a series of transformations of the solution. In each transformational step we demonstrate that you can serve incrementally more users. We will focus on one, very common, ML use case - a context aware recommendation engine.",
+      "speakers" : ["nathan_faggian"],
+      "tags" : ["ML"],
+      "title" : "Scaling and serving machine learning models"
     },
     "108" : {
       "description" : "IoT with data & analytics",
@@ -152,10 +151,10 @@
       "title" : "IoT with data & analytics"
     },
     "109" : {
-      "description" : "Istio and Kubernetes",
+      "description" : "Microservices are awesome. But they can get very hard to manage pretty quickly. In this talk we will have a look as to why it makes sense to delegate certain common operational aspects to a service mesh, Istio, and the value you can obtain from it, including a live demo.",
       "speakers" : ["debora_elkin"],
       "tags" : ["Istio", "Kubernetes", "DevOps"],
-      "title" : "Istio and Kubernetes"
+      "title" : "Maximizing Microservices - Manage complexity with Istio"
     },
     "110" : {
       "description" : "Break for snacks and networking",
@@ -169,10 +168,10 @@
       "title" : "Serverless on the Google Cloud Platform"
     },
     "112" : {
-      "description" : "TBA",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "description" : "An introduction to what Site Reliability Engineering is at Google and what an Site Reliability Engineer (SRE) role involves",
+      "speakers" : ["sunita_mizar"],
+      "tags" : ["SRE"],
+      "title" : "Introduction to SRE at Google"
     },
     "113" : {
       "description" : "Wrapping it up",
@@ -319,7 +318,7 @@
       "title" : "Cloud Consultant"
     },
     "sunita_mizar" : {
-      "bio" : "Sunita is focused on the successful delivery of business critical and high value/high impact IT development and service projects at Google.",
+      "bio" : "Sunita Mizar is the Program Management Lead for the Geo Site Reliability Engineering team in Sydney and has been with Google for just over 3 years. She has 21 years of experience in the industry, in various roles as a real time embedded software engineer, product engineering manager, delivery manager and program manager, and in industries ranging from Storage to Telecom. Sunita has lived and worked in 4 continents, and speaks 7 languages. She is part of the APAC SRE Branding team which focuses on representing SRE externally and to increase awareness about the SRE role in the industry.",
       "company" : "Google",
       "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/servian-logo.png",
       "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/servian-logo.png",
