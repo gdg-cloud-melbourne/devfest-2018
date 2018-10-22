@@ -327,7 +327,7 @@
       "name" : "Sunita Mizar",
       "photo" : "https://devfest.gdgcloud.melbourne/images/people/sunita_mizar.jpg",
       "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/sunita_mizar.jpg",
-      "shortBio" : "Program Management Lead",
+      "shortBio" : "Program Management Lead, Geo Site Reliability Engineering",
       "socials" : [
         {
         "icon": "linkedin",
@@ -335,7 +335,7 @@
         "name": "Program Management Lead"
       }
       ],
-      "title" : "Managing Consultant"
+      "title" : "Program Management Lead, Geo Site Reliability Engineering"
     },
     "emma_haruka_iwao" : {
       "bio" : "Emma is a developer advocate for Google Cloud Platform, focusing on application developers experience and high performance computing. She has been a C++ developer for 15 years and worked on embedded systems and the Chromium Project. Emma is passionate about learning and explaining the most fundamental technologies such as operating systems, distributed systems, and internet protocols. Besides software engineering, she likes games, traveling, and eating delicious food.",
