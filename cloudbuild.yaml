@@ -4,7 +4,7 @@ steps:
   args: ['install']
 - name: gcr.io/cloud-builders/npm
   entrypoint: npm
-  args: ['install', '-g', 'firebase-tools']
+  args: ['install', '-g', 'firebase-tools@5.1.1']
 - name: gcr.io/cloud-builders/npm
   entrypoint: npm
   args: ['run', 'build']
