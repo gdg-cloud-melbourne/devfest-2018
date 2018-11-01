@@ -111,7 +111,7 @@
       "title" : "Sentiment Analysis"
     },
     "102" : {
-      "description" : "From DevOps to a DevOps Culture",
+      "description" : "If your organisation is more than five years old, chances are you are familiar with the pain of the monumental shift of your legacy stack towards small, more deployable software, running on cloud infrastructure. Oh, how we all envy the start up! We worked hard to get there, but where has this left us? Our teams ship software daily and work autonomously but is that enough to claim we are a high performing team? In this session we will talking about taking stock when the dust settles, and what you can do to help your team build a strong culture in a DevOps world.",
       "speakers" : ["michelle_gleeson"],
       "tags" : ["Culture", "DevOps"],
       "title" : "From DevOps to a DevOps Culture"
