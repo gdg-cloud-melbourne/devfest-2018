@@ -131,7 +131,7 @@
       "description" : "An architectural review of gVisor, a user-space kernel for containers.",
       "speakers" : ["emma_haruka_iwao"],
       "tags" : ["DevOps"],
-      "title" : "gVisor"
+      "title" : "gVisor, an architectural review"
     },
     "106" : {
       "description" : "Lunch Break",
