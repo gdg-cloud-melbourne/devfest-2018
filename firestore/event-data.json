@@ -128,10 +128,10 @@
       "title" : "Addressing the limitations of Kubernetes' Ingress object"
     },
     "105" : {
-      "description" : "TBA",
-      "speakers" : [],
-      "tags" : [],
-      "title" : "TBA"
+      "description" : "An architectural review of gVisor, a user-space kernel for containers.",
+      "speakers" : ["emma_haruka_iwao"],
+      "tags" : ["DevOps"],
+      "title" : "gVisor"
     },
     "106" : {
       "description" : "Lunch Break",
