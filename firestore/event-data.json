@@ -62,7 +62,7 @@
     "2018-11-24" : {
       "dateReadable" : "November 24",
       "timeslots" : [
-        {"sessions" : [ { "items" : ["90"] } ], "startTime" : "08:30",  "endTime" : "09:15" },
+        {"sessions" : [ { "items" : ["90"] } ], "startTime" : "08:30",  "endTime" : "09:00" },
         {"sessions" : [ { "items" : ["95"] } ], "startTime" : "09:00",  "endTime" : "09:05" },
         {"sessions" : [ { "items" : ["100"] } ], "startTime" : "09:05",  "endTime" : "09:35" },
         {"sessions" : [ { "items" : ["111"] }, { "extend" : 12, "items" : [ 150 ]} ], "startTime" : "09:40",  "endTime" : "10:10" },
