@@ -139,7 +139,7 @@
       "title" : "Lunch"
     },
     "107" : {
-      "description" : "Using frameworks like tensorflow, scikit-learn or pytorch predictive models can be developed quickly and easily but, often, customers struggle with walking the full machine learning (ML) life cycle; that is the process of taking a model from concept to operations and then scaling it up to meet demand.\n\nIn this talk we walk the full ML lifecycle and show the audience how to take a model that you can run on a laptop and transform it into one that can run at scale on the Google Cloud Platform by leveraging a series of our tools and open-source libraries.\n\nThe talk will demonstrate a layered approach to the problem; going through a series of transformations of the solution. In each transformational step we demonstrate that you can serve incrementally more users. We will focus on one, very common, ML use case - a context aware recommendation engine.",
+      "description" : "Using frameworks like tensorflow, scikit-learn or pytorch predictive models can be developed quickly and easily but, often, customers struggle with walking the full machine learning (ML) life cycle; that is the process of taking a model from concept to operations and then scaling it up to meet demand.\n\nIn this talk we walk the full ML lifecycle and show the audience how to take a model that you can run on a laptop and transform it into one that can run at scale on the Google Cloud Platform by leveraging a series of our tools and open-source libraries.",
       "speakers" : ["nathan_faggian"],
       "tags" : ["ML"],
       "title" : "Scaling and serving machine learning models"
