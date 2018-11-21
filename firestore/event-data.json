@@ -108,7 +108,7 @@
       "description" : "I'm going to talk about some work I did analysing user interactions for a large Australian superannuation company. I'll explain a bit about how sentiment analysis works, the work I did using the Natural Language API, and show some results.",
       "speakers" : ["gareth_jones"],
       "tags" : ["ML"],
-      "title" : "Sentiment Analysis"
+      "title" : "Sentiment Analysis on GCP"
     },
     "102" : {
       "description" : "If your organisation is more than five years old, chances are you are familiar with the pain of the monumental shift of your legacy stack towards small, more deployable software, running on cloud infrastructure. Oh, how we all envy the start up! We worked hard to get there, but where has this left us? Our teams ship software daily and work autonomously but is that enough to claim we are a high performing team? In this session we will talking about taking stock when the dust settles, and what you can do to help your team build a strong culture in a DevOps world.",
@@ -169,7 +169,7 @@
     },
     "112" : {
       "description" : "An introduction to what Site Reliability Engineering is at Google and what an Site Reliability Engineer (SRE) role involves",
-      "speakers" : ["sunita_mizar"],
+      "speakers" : ["david_yang"],
       "tags" : ["SRE"],
       "title" : "Introduction to SRE at Google"
     },
@@ -317,25 +317,19 @@
       "socials" : [],
       "title" : "Cloud Consultant"
     },
-    "sunita_mizar" : {
-      "bio" : "Sunita Mizar is the Program Management Lead for the Geo Site Reliability Engineering team in Sydney and has been with Google for just over 3 years. She has 21 years of experience in the industry, in various roles as a real time embedded software engineer, product engineering manager, delivery manager and program manager, and in industries ranging from Storage to Telecom. Sunita has lived and worked in 4 continents, and speaks 7 languages. She is part of the APAC SRE Branding team which focuses on representing SRE externally and to increase awareness about the SRE role in the industry.",
+    "david_yang" : {
+      "bio" : "David is a SRE working on Google Maps. He makes sure the world keeps turning on schedule. He is experienced at breaking systems, and making sure that they don't break the same way again. He is excited about SLOs, monitoring and automation.",
       "company" : "Google",
-      "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/servian-logo.png",
-      "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/servian-logo.png",
+      "companyLogo" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
+      "companyLogoUrl" : "https://devfest.gdgcloud.melbourne/images/logos/google.svg",
       "country" : "Australia",
       "featured" : false,
-      "name" : "Sunita Mizar",
-      "photo" : "https://devfest.gdgcloud.melbourne/images/people/sunita_mizar.jpg",
-      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/sunita_mizar.jpg",
-      "shortBio" : "Program Management Lead, Geo Site Reliability Engineering",
-      "socials" : [
-        {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/sunita-mizar-a7a1a03/",
-        "name": "Program Management Lead"
-      }
-      ],
-      "title" : "Program Management Lead, Geo Site Reliability Engineering"
+      "name" : "David Yang",
+      "photo" : "https://devfest.gdgcloud.melbourne/images/people/david_yang.jpg",
+      "photoUrl" : "https://devfest.gdgcloud.melbourne/images/people/david_yang.jpg",
+      "shortBio" : "Site Reliability Engineer",
+      "socials" : [],
+      "title" : "Site Reliability Engineer"
     },
     "emma_haruka_iwao" : {
       "bio" : "Emma is a developer advocate for Google Cloud Platform, focusing on application developers experience and high performance computing. She has been a C++ developer for 15 years and worked on embedded systems and the Chromium Project. Emma is passionate about learning and explaining the most fundamental technologies such as operating systems, distributed systems, and internet protocols. Besides software engineering, she likes games, traveling, and eating delicious food.",
